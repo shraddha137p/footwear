@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143508265245",
+    "project_id": "footwere-d2724",
+    "storage_bucket": "footwere-d2724.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143508265245:android:16825f1574413a5330a9f4",
+        "android_client_info": {
+          "package_name": "com.example.foot_were_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwiy3a5T6U96TUmGfXwnLS541ODnorHTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
